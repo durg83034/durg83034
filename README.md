@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey!! 👋, I'm <a href="https://durg83034.github.io/Portfolio/" target="blank"> Durgesh Tiwari,</a></h1>
 <h2 align="center">"An enthusiastic computer science fresher, learner and doer. Responsibility and opportunities for progression"</h2>
-<img align="right" alt="Coding" width="400" height="300" src="hfsi.png">
+<img align="right" alt="Coding" width="400" height="300" src="img/hfsi.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshtiwarai&label=Profile%20views&color=0e75b6&style=flat" alt="durg83034" /> </p>
 
@@ -26,8 +26,8 @@
  -->
 <h3 align="left">Licenses & Certifications :</h3>
 <a href="https://www.hackerrank.com/certificates/d7792f9e73c3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alldchannel13" height="30" width="40" /></a>
-<a href="https://www.mygreatlearning.com/certificate/XKVCGHJV" target="blank"><img align="center" src="great_learning_logo.png" alt="mygreatlearning" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/posts/durgesh-tiwari-84ba76271_internship-certificate-activity-7233103727698583553-R80G/" target="blank"><img align="center" src="iitk_logo.png" alt="V-Lab" height="30" width="35" /></a>
+<a href="https://www.mygreatlearning.com/certificate/XKVCGHJV" target="blank"><img align="center" src="img/great_learning_logo.png" alt="mygreatlearning" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/posts/durgesh-tiwari-84ba76271_internship-certificate-activity-7233103727698583553-R80G/" target="blank"><img align="center" src="img/iitk_logo.png" alt="V-Lab" height="30" width="35" /></a>
    
    
 <h3 align="left">Connect With Me:</h3>
@@ -37,7 +37,7 @@
 
 <a href="https://www.hackerrank.com/profile/alldchannel3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alldchannel13" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/alldchaws6b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alldchaws6b" height="30" width="40" /></a>
-<a href="https://learn.microsoft.com/en-us/users/durgeshtiwari-5928/achievements?tab=tab-modules" target="blank"><img align="center" src="ms.png" alt="Microsoft" height="30" width="40" /></a>
+<a href="https://learn.microsoft.com/en-us/users/durgeshtiwari-5928/achievements?tab=tab-modules" target="blank"><img align="center" src="img/ms.png" alt="Microsoft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Languages :</h3>
@@ -46,10 +46,10 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="download.png" alt="PowerBI" width="40" height="30"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="vs logo.png" alt="Visual  Studio Code" width="40" height="30"/> </a> 
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="img/download.png" alt="PowerBI" width="40" height="30"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="img/vs logo.png" alt="Visual  Studio Code" width="40" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> </a>
-<a href="https://www.bluej.org/" target="_blank" rel="noreferrer"> <img src="Bluej.png" alt="BlueJ" width="40" height="30"/> </a>
+<a href="https://www.bluej.org/" target="_blank" rel="noreferrer"> <img src="img/Bluej.png" alt="BlueJ" width="40" height="30"/> </a>
 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durg83034&show_icons=true&locale=en&layout=compact" alt="durgeshtiwari" /></p>
