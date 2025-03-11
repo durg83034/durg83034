@@ -56,4 +56,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durg83034&show_icons=true&locale=en" alt="durgeshtiwari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durg83034&" alt="Durgesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durg83034&" alt="durgeshtiwari"/></p>
